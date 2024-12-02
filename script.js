@@ -1,1 +1,4 @@
-console.log("Hello World");
+function greeting(name)
+{
+    console.log("Hallo, ${name}!");
+}
