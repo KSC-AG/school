@@ -2,4 +2,4 @@ function greeting(name)
 {
     console.log("Hallo, ${name}");
 }
-greeting("Phinder")
+greeting("Phinder") // Output: "Hallo, Phinder"
