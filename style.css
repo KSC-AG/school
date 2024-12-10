@@ -13,3 +13,8 @@ h1
 {
     font-family: 'Courier New', Courier, monospace;
 }
+
+h3
+{
+    text-align: center;
+}
